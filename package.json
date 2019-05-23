@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-facebook-icon-json-ld",
-    "version": "0.0.2-0",
+    "version": "0.0.2",
     "description": "VAMTIGER Facebook Icon JSON-LD",
     "main": "build",
     "scripts": {
