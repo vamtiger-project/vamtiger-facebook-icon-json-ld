@@ -10,7 +10,7 @@ const jsonLd = {
         email: 'vamtiger@vamtiger.com'
     },
     datePublished: '23 May 2018',
-    contentUrl: 'https://unpkg.com/vamtigerr-twitter-icon-json-ld/facebook.html'
+    contentUrl: 'https://unpkg.com/vamtiger-facebook-icon-json-ld/facebook.html'
 };
 
 export default [
