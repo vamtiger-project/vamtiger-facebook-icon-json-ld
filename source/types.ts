@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-facebook-icon-json-ld';
+export const url = 'https://unpkg.com/vamtiger-facebook-icon-json-ld@latest';
